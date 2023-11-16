@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there Victor Manuel SG 👋
 
-<!--
-**VictorManuelSG20/VictorManuelSG20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+🎓 Ingeniero en Sistemas Computacionales 
 
-Here are some ideas to get you started:
+💻 Desarollador Android 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:iphone: Diseñador UX/UI
+
+📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+
+📫 Contacto: **ms5327175@gmail.com**
+<!--Intro end-->
+  </p>
+
+
+  <h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,xd,wordpress,vscode,sqlite,pr,ps,kotlin,java,ai,html,github,figma,css,firebase,&perline=12" />
+  </a>
+</p>
+<br>
