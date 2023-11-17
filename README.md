@@ -18,7 +18,7 @@
 
 :iphone: Diseñador UX/UI
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+📝 roles en el ámbito: desarrollador... líder... autodicata... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
 
 📫 Contacto: **ms5327175@gmail.com**
 <!--Intro end-->
