@@ -5,7 +5,7 @@
 </div>
 
 
-<!--- snake -->
+<!--- snake 3 -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
@@ -18,7 +18,7 @@
 
 :iphone: Diseñador UX/UI
 
-📝 roles en el ámbito: desarrollador... líder... autodicata... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+📝 roles en el ámbito: desarrollador... entusiasta... autodicata... a pasaionadaor por la tecnologia ... emprendedor... programador freelance... y en un futuro quién sabe ☺️
 
 📫 Contacto: **ms5327175@gmail.com**
 <!--Intro end-->
